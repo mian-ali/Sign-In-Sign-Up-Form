@@ -1,4 +1,4 @@
-## Sign-In || Sign-Up Form
+### Sign-In &  Sign-Up Form
 
 >  Project  Demo Preview
 
